@@ -1,2 +1,2 @@
 # jokesApp
-https://shankar9834.github.io/jokesApp/
+https://avishakrkhankare.github.io/jokesApp/
